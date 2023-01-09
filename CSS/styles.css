@@ -1,0 +1,22 @@
+
+body {
+  background-color: #e6e6fa;
+}
+
+h1 {
+  color: #BF8915;
+  font-family: Georgia, serif;
+}
+
+h3 {
+  color: #BF8915;
+}
+
+hr {
+  height: 3px;
+  width: 5%;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  border-color: grey;
+}
